@@ -14,7 +14,7 @@ Weather App is a simple weather forecast app, which uses some APIs to fetch  for
 Weather uses the [OpenWeatherMap](https://openweathermap.org/current) to fetch weather data. To run this app, you'll need an OpenWeatherMap API key. This is entirely free. To do so :
 1. Create your account [here](https://home.openweathermap.org/users/sign_in) and get your OpenWeatherMap API key.
 2. Open the project, and go to the `Constants.kt` file.
-3. Replace `const val API_KEY = "` by your key.
+3. Replace `const val API_KEY = ""` by your key.
     
 ## Libraries and Tools 
 
